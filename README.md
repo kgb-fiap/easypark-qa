@@ -9,8 +9,8 @@ Este repositório contém a documentação, os roteiros e as evidências das val
 
 | Recurso | Plataforma | Link de Acesso |
 | :--- | :--- | :--- |
-| **Testes Manuais** | Azure Boards | [https://dev.azure.com/kgb-easypark/Easypark] |
-| **Testes Automatizados** | YouTube | [🔗 Inserir Link do Vídeo Aqui] |
+| **Testes Manuais** | Azure Boards | [https://dev.azure.com/kgb-easypark/Easypark/_testPlans/define?planId=56&suiteId=57] |
+| **Testes Automatizados** | YouTube | [https://youtu.be/JkzRpz71zGM] |
 
 ---
 
@@ -40,7 +40,7 @@ Uma demonstração em vídeo da configuração, execução e aprovação (PASS) 
 
 ---
 
-## **✨ Equipe de Engenharia e QA**
+## **✨ Criadores**
 
 * [@gabrielCZz](https://github.com/orgs/kgb-fiap/people/gabrielCZz) - Gabriel Cruz | RM 569613
 * [@k-auaferreira](https://github.com/orgs/kgb-fiap/people/k-auaferreira) - Kauã Ferreira | 560992
