@@ -5,7 +5,7 @@ Este repositório contém a documentação, os roteiros e as evidências das val
 
 ---
 
-## **📌 Entregáveis da Sprint (Links Oficiais)**
+## **📌 Links**
 
 | Recurso | Plataforma | Link de Acesso |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ Este repositório contém a documentação, os roteiros e as evidências das val
 
 ---
 
-## **📋 Parte A: Plano de Testes Manuais (Nível de Sistema)**
+## **📋 Plano de Testes Manuais (Nível de Sistema)**
 
 Para garantir a qualidade da Interface do Usuário (UI) e a usabilidade do motorista, elaboramos **4 Casos de Teste (Test Cases)** diretamente integrados ao nosso Backlog no **Azure Boards**, garantindo 100% de rastreabilidade com as *User Stories* entregues.
 
@@ -26,7 +26,7 @@ Os testes foram executados com **dados controlados** (inputs predefinidos) e cob
 
 ---
 
-## **🤖 Parte B: Testes Automatizados (API / Backend)**
+## **🤖 Testes Automatizados (API / Backend)**
 
 Para garantir a integridade da base da nossa pirâmide de testes, utilizamos o **Postman** para automatizar a validação do nosso endpoint RESTful principal hospedado na Microsoft Azure (`/estacionamentos`).
 
